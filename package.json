@@ -1,0 +1,24 @@
+{
+  "name": "@starbase/triples",
+  "version": "0.0.1",
+  "description": "Starbase Triples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starbasealpha/triples.git"
+  },
+  "keywords": [
+    "triples",
+    "triplestore",
+    "starbase"
+  ],
+  "author": "Mike Fuller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starbasealpha/triples/issues"
+  },
+  "homepage": "https://github.com/starbasealpha/triples#readme"
+}
